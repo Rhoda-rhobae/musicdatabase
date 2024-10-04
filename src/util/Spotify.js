@@ -2,7 +2,7 @@
 
 let accessToken;
 const clientID = "bb95ed314a4242129da13b81597fe1df";
-const redirectUri = "musicdataa.netlify.app";
+const redirectUri = "https://musicdataa.netlify.app";
 
 const Spotify = {
     getAccessToken(){
