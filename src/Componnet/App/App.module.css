@@ -1,0 +1,50 @@
+
+body,
+html,
+#root {
+  height: 100%;
+}
+
+html {
+  font-size: 18px;
+}
+
+h1 .highlight{
+    color: #fd2d51;
+}
+
+
+h1 {
+    text-align: center;
+    font-family: "Playpen Sans", cursive;
+    font-size: 1.88rem;
+    text-align: center;
+    background-color: #f3d4d9;
+    padding: 0.77rem 0;
+    color:#000 ;
+    font-weight: 500;
+}
+
+
+
+.App {
+    min-height: 100vh;
+    padding: 0 17% 10% 17%;
+    background-image: url("./headphone.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 500;
+    color: #fff;
+  }
+  
+
+
+  .App-playlist {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+
